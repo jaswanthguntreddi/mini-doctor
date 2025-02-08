@@ -1,1 +1,1 @@
-# mini-doctor
+# code-prep-gemini-ai-course
